@@ -13,6 +13,8 @@
 
 
 
+<div align="center">
+    
 - 🔭 I’m currently working on **many practice project**
 
 - 🌱 I’m currently learning **Backend Development**
@@ -22,6 +24,8 @@
 - 📫 How to reach me **ain.nayeem1999@gmail.com**
 
 - ⚡ Fun fact **There is no fun!**
+</div>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -46,16 +50,15 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ainayeem&theme=dark&hide_border=false)<br/>
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ainayeem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ainayeem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
 
 
 ### ✍️ Dev Quote
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+    
+</div>
