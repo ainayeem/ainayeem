@@ -1,12 +1,9 @@
 
 
-
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ainayeem&label=Visitors&color=0fbb3f&style=flat" alt="ainayeem" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+This+is+Ashikul+Islam+Nayeem!;" />
 </h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
 
 
 
@@ -51,3 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ainayeem&show_icons=true&theme=dark&locale=en" alt="ainayeem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ainayeem&theme=dark" alt="ainayeem" /></p>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
