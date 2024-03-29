@@ -49,15 +49,12 @@
 
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-</div>
+
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="margin-right: 10px; display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" style="margin-right: 10px; display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" style="display: inline-block;">
 </div>
 
 
