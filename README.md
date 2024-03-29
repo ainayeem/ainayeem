@@ -55,9 +55,9 @@
 </div>
 
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="margin-right: 10px; display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="display: inline-block;">
 </div>
 
 
