@@ -1,11 +1,6 @@
 
 
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif" style="width:900px;height:100px;object-fit:cover;object-position:center top;">
-</div>
-
-
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ainayeem&label=Visitors&color=0fbb3f&style=flat" alt="ainayeem" /> </p>
 <h1 align="center">
