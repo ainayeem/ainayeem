@@ -43,11 +43,17 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ainayeem&show_icons=true&theme=dark&locale=en&layout=compact" alt="ainayeem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ainayeem&show_icons=true&theme=dark&locale=en" alt="ainayeem" /></p>
+# 📊 GitHub Stats:
+<div align="center">
+    
+![](https://github-readme-stats.vercel.app/api?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ainayeem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ainayeem&theme=dark" alt="ainayeem" /></p>
+</div>
+
+
 
 
 ### ✍️ Random Dev Quote
