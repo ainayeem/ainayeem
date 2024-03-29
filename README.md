@@ -8,7 +8,11 @@
 </h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp")
+
+
+<div align="center">
+  <img height="200" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"  />
+</div>
 
 
 
