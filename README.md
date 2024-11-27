@@ -13,18 +13,7 @@
 
 
 
-// <div align="center">
-    
-// 🔭 I’m currently working on **many practice project**
 
-// 🌱 I’m currently learning **Backend Development**
-
-// 👨‍💻 All of my projects are available at [google.com](google.com)
-
-//  📫 How to reach me **ain.nayeem1999@gmail.com**
-
-//⚡ Fun fact **There is no fun!**
-// </div>
 
 
 <h3 align="center">Connect with me:</h3>
