@@ -18,11 +18,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ashikul-islam-nayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashikul-islam-nayeem" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ainayeem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashikul-islam-nayeem" height="30" width="40" /></a>
 <a href="https://fb.com/ashikulislam.nayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashikulislam.nayeem" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ainayeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ainayeem" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ai_nayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ai_nayeem" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ainayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ainayeem" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/ainayeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ainayeem" height="30" width="40" /></a> -->
+<!-- <a href="https://codeforces.com/profile/ai_nayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ai_nayeem" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/ainayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ainayeem" height="30" width="40" /></a> -->
 </p>
 
 
