@@ -16,7 +16,7 @@
 
 ### You can find me at
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61560522810852)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ashikulislam.nayeem)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ainayeem/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ain.nayeem1999@gmail.com)
 
@@ -47,7 +47,6 @@
   ![](https://img.shields.io/badge/Zod-274d82?style=flat&logo=zod&logoColor=white)
 
 - Databases
-
   ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![](https://img.shields.io/badge/PostgreSQL-31648c?style=flat&logo=PostgreSQL&logoColor=white)
   ![](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
@@ -58,18 +57,19 @@
   ![](https://img.shields.io/badge/Vercel-292e3c?style=flat&logo=vercel&logoColor=white)
   ![](https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white)
 
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,java,js" height="30" alt="language icons"/>
+
+### Competitive Programming
+
+[![](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/ainayeem/)
+[![](https://img.shields.io/badge/Codeforces-f7c945?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ai_Nayeem)
+[![](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ainayeem/)
 
 
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/ainayeem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashikul-islam-nayeem" height="30" width="40" /></a>
-<a href="https://fb.com/ashikulislam.nayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashikulislam.nayeem" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/ainayeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ainayeem" height="30" width="40" /></a> -->
-<!-- <a href="https://codeforces.com/profile/ai_nayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ai_nayeem" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/ainayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ainayeem" height="30" width="40" /></a> -->
-</p>
 
 
 
