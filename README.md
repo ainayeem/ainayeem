@@ -30,7 +30,7 @@
   ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
   
   ![](https://img.shields.io/badge/ReactJS-087ea4?style=flat&logo=react&logoColor=white)
-  ![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
+  ![](https://img.shields.io/badge/Redux%20Toolkit-794ebd?style=flat&logo=Redux&logoColor=white)
   ![](https://img.shields.io/badge/NextJS-222d3d?style=flat&logo=next.js&logoColor=white)
  
   ![](https://img.shields.io/badge/Bootstrap-7910f2?style=flat&logo=bootstrap&logoColor=white)
@@ -43,21 +43,20 @@
 - Back-end Development  
   ![](https://img.shields.io/badge/NodeJS-3c823b?style=flat&logo=nodedotjs&logoColor=white)
   ![](https://img.shields.io/badge/Express-a60070?style=flat&logo=express&logoColor=white)
-  ![](https://img.shields.io/badge/Django_Rest_Framework-a30000?style=flat&logo=django&logoColor=white)
+  ![](https://img.shields.io/badge/Mongoose-a13939?style=flat&logo=Mongoose&logoColor=white)
+  ![](https://img.shields.io/badge/Zod-274d82?style=flat&logo=zod&logoColor=white)
 
-- Databases  
+- Databases
   ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  ![](https://img.shields.io/badge/Firebase-ffa610?style=flat&logo=firebase&logoColor=white)
-  ![](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+  ![](https://img.shields.io/badge/PostgreSQL-31648c?style=flat&logo=PostgreSQL&logoColor=white)
   ![](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
-  ![](https://img.shields.io/badge/PostgreSQL-3b6693?style=flat&logo=postgresql&logoColor=white)
-  ![](https://img.shields.io/badge/SQLite-134762?style=flat&logo=sqlite&logoColor=white)
-  ![](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+  ![](https://img.shields.io/badge/Firebase-ffa610?style=flat&logo=firebase&logoColor=white)
 
 - Others  
   ![](https://img.shields.io/badge/Netlify-4c4c4c?style=flat&logo=netlify&logoColor=white)
   ![](https://img.shields.io/badge/Vercel-292e3c?style=flat&logo=vercel&logoColor=white)
-  ![](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+  ![](https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white)
+
 
 
 
