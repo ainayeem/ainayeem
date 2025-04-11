@@ -6,7 +6,7 @@
 </h1>
 
 
-- 😄 I’m from Bangladesh <img src="https://cdn3.emoji.gg/emojis/5307-peepobangladesh.gif" width="40"/>
+- 😄 I’m from Bangladesh <img src="https://png.pngtree.com/png-vector/20221118/ourmid/pngtree-vintage-bangladesh-flag-in-brush-stroke-png-image_6469214.png" width="30"/>
 - 🌱 I’m a **Full-Stack Web Developer** mainly focusing on **Front-end**
 - 👀 I'm interested in **Development, Designing**
 - 💻 I am currently trying **web development**
@@ -14,7 +14,10 @@
 - 🎮 I like to play games or watch movie in my free time
 - 📖 I am a **Computer Science** graduate from **Daffodil International University**
 
+### You can find me at
 
+[![Facebook](https://img.shields.io/badge/au.shamim0-0866ff?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/au.shamim0/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61560522810852)
 
 
 
