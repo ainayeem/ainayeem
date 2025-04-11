@@ -40,7 +40,7 @@
   ![](https://img.shields.io/badge/Ant_Design-0d6eff?style=flat&logo=antdesign&logoColor=white)
   ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
 
-- Back-end Development
+- Back-end Development   
   ![](https://img.shields.io/badge/NodeJS-3c823b?style=flat&logo=nodedotjs&logoColor=white)
   ![](https://img.shields.io/badge/Express-a60070?style=flat&logo=express&logoColor=white)
   ![](https://img.shields.io/badge/Mongoose-a13939?style=flat&logo=Mongoose&logoColor=white)
@@ -59,7 +59,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,java,js" height="30" alt="language icons"/>
+<img src="https://skillicons.dev/icons?i=js,c,cpp,py" height="30" alt="language icons"/>
 
 ### Competitive Programming
 
@@ -68,9 +68,6 @@
 [![](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ainayeem/)
 
 
-
-
-# GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ainayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" style="margin-right: 10px; display: inline-block;">
