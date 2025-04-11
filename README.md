@@ -6,10 +6,14 @@
 </h1>
 
 
+- 😄 I’m from Bangladesh <img src="https://cdn3.emoji.gg/emojis/5307-peepobangladesh.gif" width="40"/>
+- 🌱 I’m a **Full-Stack Web Developer** mainly focusing on **Front-end**
+- 👀 I'm interested in **Development, Designing**
+- 💻 I am currently trying **web development**
+- 🧠 I am currently learning **animation library**
+- 🎮 I like to play games or watch movie in my free time
+- 📖 I am a **Computer Science** graduate from **Daffodil International University**
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"  />
-</div>
 
 
 
