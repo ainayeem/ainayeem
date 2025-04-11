@@ -27,15 +27,18 @@
   ![](https://img.shields.io/badge/HTML-e65127?style=flat&logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/CSS-0c73b8?style=flat&logo=css3&logoColor=white)
   ![](https://img.shields.io/badge/JS-e7a328?style=flat&logo=javascript&logoColor=white)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)]
+  ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+  
   ![](https://img.shields.io/badge/ReactJS-087ea4?style=flat&logo=react&logoColor=white)
+  ![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
   ![](https://img.shields.io/badge/NextJS-222d3d?style=flat&logo=next.js&logoColor=white)
-  ![](https://img.shields.io/badge/Django-092d1f?style=flat&logo=django&logoColor=white)  
+ 
   ![](https://img.shields.io/badge/Bootstrap-7910f2?style=flat&logo=bootstrap&logoColor=white)
   ![](https://img.shields.io/badge/Tailwind-07b0ce?style=flat&logo=tailwindcss&logoColor=white)
   ![](https://img.shields.io/badge/DaisyUI-5a0ef8?style=flat&logo=daisyui&logoColor=white)
   ![](https://img.shields.io/badge/Material_UI-007dc5?style=flat&logo=mui&logoColor=white)
   ![](https://img.shields.io/badge/Ant_Design-0d6eff?style=flat&logo=antdesign&logoColor=white)
+  ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
 
 - Back-end Development  
   ![](https://img.shields.io/badge/NodeJS-3c823b?style=flat&logo=nodedotjs&logoColor=white)
