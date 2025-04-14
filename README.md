@@ -5,8 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Assalamualaikum+👋;+This+is+Ashikul+Islam+Nayeem!;" />
 </h1>
 
-<img align="center" src="https://github-stats-alpha.vercel.app/api?username=ainayeem&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-
+<div align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=ainayeem&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</div>
 
 - 😄 I’m from Bangladesh <img src="https://png.pngtree.com/png-vector/20221118/ourmid/pngtree-vintage-bangladesh-flag-in-brush-stroke-png-image_6469214.png" width="30"/>
 - 🌱 I’m a **Full-Stack Web Developer** mainly focusing on **Front-end**
